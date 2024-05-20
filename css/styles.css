@@ -45,6 +45,7 @@ p {
     padding: 16px 16px;
     gap: 24px;
     text-align: center;
+    box-shadow: 0 25px 25px 0 rgb(0 0 0 / 4.77%);
 }
 
 .link-card__media-wrapper {
@@ -72,6 +73,7 @@ p {
     font-weight: bold;
     font-style: normal;
     line-height: normal;
+    color: #1F314F;
 }
 
 .link-card__content-wrapper p {
@@ -81,5 +83,6 @@ p {
     letter-spacing: 0.19px;
     font-style: normal;
     line-height: normal;
+    color: #7D889E;
     width: 256px;
 }

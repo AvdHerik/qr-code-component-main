@@ -73,7 +73,7 @@ p {
     gap: 16px;
 }
 
-.link-card__content-wrapper h3 {
+.link-card__content-wrapper h1 {
     font-family: "Outfit", sans-serif;
     font-size: 22px;
     font-weight: bold;
